@@ -1,0 +1,45 @@
+{
+  "name": "avtale-templates",
+  "version": "1.0.0",
+  "description": "Templates for avtaler",
+  "license": "MIT",
+  "author": {
+    "name": "Geir Gåsodden",
+    "email": "geir.gasodden@pythonia.no",
+    "url": "https://github.com/zrrrzzt"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">=8.11.1"
+  },
+  "scripts": {
+    "test": "standard && nsp check && ava",
+    "test-offline": "standard && ava",
+    "coverage": "nyc ava",
+    "coveralls": "nyc ava && nyc report --reporter=lcov && cat coverage/lcov.info | coveralls",
+    "standard-fix": "standard --fix",
+    "refresh": "rm -rf node_modules && rm package-lock.json && npm install"
+  },
+  "keywords": [
+    "Tfk",
+    "Telemark fylkeskommune",
+    "Avtaler",
+    "eSignatur",
+    "Maler"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/telemark/avtale-templates.git"
+  },
+  "bugs": {
+    "url": "https://github.com/telemark/avtale-templates/issues"
+  },
+  "homepage": "https://github.com/telemark/avtale-templates#readme",
+  "devDependencies": {
+    "ava": "0.25.0",
+    "coveralls": "3.0.0",
+    "nsp": "3.2.1",
+    "nyc": "11.6.0",
+    "standard": "11.0.1"
+  }
+}
