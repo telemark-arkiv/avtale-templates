@@ -1,5 +1,7 @@
 # avtale-templates
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/telemark/avtale-templates.svg)](https://greenkeeper.io/)
+
 Templates for avtaler
 
 ## License
