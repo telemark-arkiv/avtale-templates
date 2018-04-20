@@ -4,6 +4,10 @@ const templates = require('../../templates/templates.json')
 
 const expectedData = {
   file: 'elevpc.docx',
+  name: 'Låneavtale elevpc',
+  dueDays: 1,
+  dueDate: false,
+  expireDate: false,
   archive: {
     Category: 'Dokument ut',
     SignOff: true,
