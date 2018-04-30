@@ -22,6 +22,9 @@ returns
   dueDays: 1,
   dueDate: false,
   expireDate: false,
+  expireDays: false,
+  requireDigitalSignature: true,
+  requireGuardianSignature: true,
   archive:
    { Category: 'Dokument ut',
      SignOff: true,
