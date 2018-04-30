@@ -7,6 +7,7 @@
     "expireDate": false,
     "expireDays": false,
     "requireDigitalSignature": true,
+    "requireGuardianSignature": true,
     "archive": {
       "Category": "Dokument ut",
       "SignOff": true,
@@ -24,6 +25,7 @@
     "expireDate": false,
     "expireDays": false,
     "requireDigitalSignature": false,
+    "requireGuardianSignature": true,
     "archive": {
       "Category": "Dokument ut",
       "SignOff": true,
