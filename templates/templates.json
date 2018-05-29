@@ -25,7 +25,25 @@
     "expireDate": false,
     "expireDays": false,
     "requireDigitalSignature": false,
-    "requireGuardianSignature": true,
+    "requireGuardianSignature": false,
+    "archive": {
+      "Category": "Dokument ut",
+      "SignOff": true,
+      "AccessCode": "13",
+      "Paragraph": "Offl §13 jfr Fvl §13.1",
+      "NoarkClassificationCode": "B31",
+      "Status": "J"
+    }
+  },
+  "images": {
+    "file": "images.docx",
+    "name": "Samtykke til bruk av bilder",
+    "dueDays": 1,
+    "dueDate": false,
+    "expireDate": false,
+    "expireDays": false,
+    "requireDigitalSignature": false,
+    "requireGuardianSignature": false,
     "archive": {
       "Category": "Dokument ut",
       "SignOff": true,
