@@ -8,6 +8,7 @@
     "expireDays": false,
     "requireDigitalSignature": true,
     "requireGuardianSignature": true,
+    "requireGuardianConsent": true,
     "archive": {
       "Category": "Dokument ut",
       "SignOff": true,
@@ -26,6 +27,7 @@
     "expireDays": false,
     "requireDigitalSignature": false,
     "requireGuardianSignature": false,
+    "requireGuardianConsent": true,
     "archive": {
       "Category": "Dokument ut",
       "SignOff": true,
@@ -42,8 +44,9 @@
     "dueDate": false,
     "expireDate": false,
     "expireDays": false,
-    "requireDigitalSignature": false,
+    "requireDigitalSignature": true,
     "requireGuardianSignature": false,
+    "requireGuardianConsent": false,
     "archive": {
       "Category": "Dokument ut",
       "SignOff": true,

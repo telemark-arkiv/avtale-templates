@@ -24,6 +24,7 @@ returns
   expireDays: false,
   requireDigitalSignature: true,
   requireGuardianSignature: true,
+  requireGuardianConsent: true,
   archive:
    { Category: 'Dokument ut',
      SignOff: true,
