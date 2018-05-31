@@ -1,7 +1,7 @@
 {
   "elevpc": {
     "file": "elevpc.docx",
-    "name": "Låneavtale elevpc",
+    "name": "Låneavtale elevpc (TFK-SIGN)",
     "dueDays": 1,
     "dueDate": false,
     "expireDate": false,
@@ -39,7 +39,7 @@
   },
   "images": {
     "file": "images.docx",
-    "name": "Samtykke til bruk av bilder",
+    "name": "Samtykke til bruk av film og bilder (TFK-SIGN)",
     "dueDays": 1,
     "dueDate": false,
     "expireDate": false,
