@@ -1,4 +1,23 @@
 {
+  "byod": {
+    "file": "byod.docx",
+    "name": "Avtale byod (TFK-SIGN)",
+    "dueDays": 1,
+    "dueDate": false,
+    "expireDate": false,
+    "expireDays": false,
+    "requireDigitalSignature": true,
+    "requireGuardianSignature": true,
+    "requireGuardianConsent": true,
+    "archive": {
+      "Category": "Dokument ut",
+      "SignOff": true,
+      "AccessCode": "13",
+      "Paragraph": "Offl §13 jfr Fvl §13.1",
+      "NoarkClassificationCode": "B31",
+      "Status": "J"
+    }
+  },
   "elevpc": {
     "file": "elevpc.docx",
     "name": "Låneavtale elevpc (TFK-SIGN)",
