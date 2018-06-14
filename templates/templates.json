@@ -74,5 +74,24 @@
       "NoarkClassificationCode": "B31",
       "Status": "J"
     }
+  },
+  "restricted": {
+    "file": "restricted.docx",
+    "name": "Avtale må distribueres manuelt",
+    "dueDays": 1,
+    "dueDate": false,
+    "expireDate": false,
+    "expireDays": false,
+    "requireDigitalSignature": true,
+    "requireGuardianSignature": false,
+    "requireGuardianConsent": false,
+    "archive": {
+      "Category": "Dokument ut",
+      "SignOff": true,
+      "AccessCode": "13",
+      "Paragraph": "Offl §13 jfr Fvl §13.1",
+      "NoarkClassificationCode": "B31",
+      "Status": "J"
+    }
   }
 }
