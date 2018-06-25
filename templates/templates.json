@@ -1,7 +1,7 @@
 {
   "byod": {
     "file": "byod.docx",
-    "name": "Avtale byod (TFK-SIGN)",
+    "name": "Avtale byod",
     "dueDays": 1,
     "dueDate": false,
     "expireDate": false,
@@ -20,7 +20,7 @@
   },
   "elevpc": {
     "file": "elevpc.docx",
-    "name": "Låneavtale elevpc (TFK-SIGN)",
+    "name": "Låneavtale elevpc",
     "dueDays": 1,
     "dueDate": false,
     "expireDate": false,
@@ -37,9 +37,9 @@
       "Status": "J"
     }
   },
-  "boker": {
-    "file": "boker.docx",
-    "name": "Utlånsbetingelser bøker",
+  "laeremidler": {
+    "file": "laeremidler.docx",
+    "name": "Utlånsbetingelser læremidler",
     "dueDays": 1,
     "dueDate": false,
     "expireDate": false,
@@ -58,7 +58,7 @@
   },
   "images": {
     "file": "images.docx",
-    "name": "Samtykke til bruk av film og bilder (TFK-SIGN)",
+    "name": "Samtykke til bruk av film og bilder",
     "dueDays": 1,
     "dueDate": false,
     "expireDate": false,
