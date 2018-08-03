@@ -23,7 +23,7 @@
   },
   "elevpc": {
     "file": "elevpc.docx",
-    "name": "Låneavtale elevpc",
+    "name": "Avtale om leasing-pc fra Telemark fylkeskommune",
     "dueDays": 75,
     "dueDate": false,
     "expireDate": false,
@@ -62,7 +62,7 @@
   },
   "laeremidler": {
     "file": "laeremidler.docx",
-    "name": "Utlånsbetingelser læremidler",
+    "name": "Informasjon om gratis utlån av læremidler",
     "dueDays": 30,
     "dueDate": false,
     "expireDate": false,
