@@ -19,6 +19,26 @@ const expectedData = {
     Paragraph: 'Offl §13 jfr Fvl §13.1',
     NoarkClassificationCode: 'B31',
     Status: 'J'
+  },
+  distribution: {
+    kunDigitalLevering: true,
+    lenker: [
+      {
+        ledetekst: 'Mer informasjon:',
+        urlLenke: 'https://www.telemark.no/Vaare-tjenester/Utdanning/For-elever/PC-i-skolen',
+        urlTekst: 'PC i skolen'
+      },
+      {
+        ledetekst: 'Mer informasjon',
+        urlLenke: 'https://www.telemark.no/Vaare-tjenester/Utdanning/For-elever/PC-i-skolen/Artikler/Leasing-PC',
+        urlTekst: 'Leasing PC'
+      },
+      {
+        ledetekst: 'Mer informasjon',
+        urlLenke: 'https://www.telemark.no/Vaare-tjenester/Utdanning/For-elever/PC-i-skolen/Artikler/Egen-PC-proeveordning',
+        urlTekst: 'Bruk egen PC'
+      }
+    ]
   }
 }
 
