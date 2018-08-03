@@ -4,7 +4,7 @@ const templates = require('../../templates/templates.json')
 
 const expectedData = {
   file: 'elevpc.docx',
-  name: 'Låneavtale elevpc',
+  name: 'Avtale om leasing-pc fra Telemark fylkeskommune',
   dueDays: 75,
   dueDate: false,
   expireDate: false,
