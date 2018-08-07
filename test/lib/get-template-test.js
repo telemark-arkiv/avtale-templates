@@ -18,7 +18,8 @@ const expectedData = {
     AccessCode: '13',
     Paragraph: 'Offl §13 jfr Fvl §13.1',
     NoarkClassificationCode: 'B31',
-    Status: 'J'
+    Status: 'J',
+    Title: 'Leieavtale elev-pc'
   },
   distribution: {
     kunDigitalLevering: true,
