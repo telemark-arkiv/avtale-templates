@@ -32,6 +32,7 @@
     "requireGuardianSignature": true,
     "requireGuardianConsent": true,
     "archive": {
+      "Title": "Leieavtale elev-pc",
       "Category": "Dokument ut",
       "SignOff": true,
       "AccessCode": "13",
@@ -71,6 +72,7 @@
     "requireGuardianSignature": false,
     "requireGuardianConsent": true,
     "archive": {
+      "Title": "Gratis utlån av læremidler",
       "Category": "Dokument ut",
       "SignOff": true,
       "AccessCode": "13",
