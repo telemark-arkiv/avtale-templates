@@ -26,12 +26,13 @@ returns
   "requireGuardianSignature": true,
   "requireGuardianConsent": true,
   "archive": {
+    "Title": "Leieavtale elev-pc",
     "Category": "Dokument ut",
     "SignOff": true,
     "AccessCode": "13",
     "Paragraph": "Offl §13 jfr Fvl §13.1",
     "NoarkClassificationCode": "B31",
-    "Status": "J"
+    "Status": "J",
   },
   "distribution": {
     "kunDigitalLevering": true,
