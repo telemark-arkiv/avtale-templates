@@ -95,8 +95,9 @@
     "requireGuardianSignature": false,
     "requireGuardianConsent": false,
     "archive": {
-      "Category": "Dokument ut",
-      "SignOff": true,
+      "Title": "Dokumenter må sendes til elev",
+      "Category": "Internt notat / e-post MED oppfølging (N)",
+      "SignOff": false,
       "AccessCode": "13",
       "Paragraph": "Offl §13 jfr Fvl §13.1",
       "NoarkClassificationCode": "B31",
