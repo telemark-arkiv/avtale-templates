@@ -116,7 +116,7 @@
   },
   "manuell": {
     "file": "manuell-foresatt.docx",
-    "name": "Avtale må distribueres til foresatt",
+    "name": "Avtale må distribueres til foresatte",
     "dueDays": 30,
     "dueDate": false,
     "expireDate": false,
@@ -125,7 +125,7 @@
     "requireGuardianSignature": false,
     "requireGuardianConsent": false,
     "archive": {
-      "Title": "Dokumenter må sendes til foresatt",
+      "Title": "${navnAvtale} må sendes til foresatte for elev",
       "Category": "Internt notat / e-post MED oppfølging (N)",
       "SignOff": false,
       "AccessCode": "13",
