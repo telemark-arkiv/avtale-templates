@@ -125,7 +125,7 @@
     "requireGuardianSignature": false,
     "requireGuardianConsent": false,
     "archive": {
-      "Title": "${navnAvtale} må sendes til foresatte for elev",
+      "Title": "må sendes til foresatte for elev",
       "Category": "Internt notat / e-post MED oppfølging (N)",
       "SignOff": false,
       "AccessCode": "13",
