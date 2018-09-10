@@ -12,6 +12,7 @@ const expectedData = {
   requireDigitalSignature: true,
   requireGuardianSignature: true,
   requireGuardianConsent: true,
+  dropManualDistribution: false,
   archive: {
     Category: 'Dokument ut',
     SignOff: true,

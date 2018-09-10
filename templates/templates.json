@@ -9,6 +9,7 @@
     "requireDigitalSignature": true,
     "requireGuardianSignature": true,
     "requireGuardianConsent": true,
+    "dropManualDistribution": false,
     "archive": {
       "Category": "Dokument ut",
       "SignOff": true,
@@ -31,6 +32,7 @@
     "requireDigitalSignature": true,
     "requireGuardianSignature": true,
     "requireGuardianConsent": true,
+    "dropManualDistribution": false,
     "archive": {
       "Title": "Leieavtale elev-pc",
       "Category": "Dokument ut",
@@ -71,6 +73,7 @@
     "requireDigitalSignature": true,
     "requireGuardianSignature": false,
     "requireGuardianConsent": false,
+    "dropManualDistribution": true,
     "archive": {
       "Title": "Samtykkeerklæring for bruk av bilder og film",
       "Category": "Dokument ut",
@@ -101,6 +104,7 @@
     "requireDigitalSignature": false,
     "requireGuardianSignature": false,
     "requireGuardianConsent": true,
+    "dropManualDistribution": false,
     "archive": {
       "Title": "Gratis utlån av læremidler",
       "Category": "Dokument ut",
@@ -124,6 +128,7 @@
     "requireDigitalSignature": false,
     "requireGuardianSignature": false,
     "requireGuardianConsent": false,
+    "dropManualDistribution": false,
     "archive": {
       "Title": "må sendes til foresatte for elev",
       "Category": "Internt notat / e-post MED oppfølging (N)",
@@ -147,6 +152,7 @@
     "requireDigitalSignature": false,
     "requireGuardianSignature": false,
     "requireGuardianConsent": false,
+    "dropManualDistribution": false,
     "archive": {
       "Title": "Dokumenter må sendes til elev",
       "Category": "Internt notat / e-post MED oppfølging (N)",

@@ -25,6 +25,7 @@ returns
   "requireDigitalSignature": true,
   "requireGuardianSignature": true,
   "requireGuardianConsent": true,
+  "dropManualDistribution": false,
   "archive": {
     "Title": "Leieavtale elev-pc",
     "Category": "Dokument ut",
