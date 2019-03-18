@@ -1,6 +1,10 @@
 [![Build Status](https://travis-ci.org/telemark/avtale-templates.svg?branch=master)](https://travis-ci.org/telemark/avtale-templates)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
+# DEPRECATED
+
+Functionality moved/replaced by [document-templates](https://github.com/telemark/document-templates)
+
 # avtale-templates
 
 Templates for avtaler
